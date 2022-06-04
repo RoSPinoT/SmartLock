@@ -1,0 +1,2 @@
+This is a smart lock project in which ock will be unlocked or locked by entering the correct pin.
+I have used Arduino Uno, Lcd Display, 1 relay module and solenoid Lock.
